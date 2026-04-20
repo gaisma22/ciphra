@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# App runtime folders
+logs/
+
+# Credentials
+.ciphra/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Audit and verification files
+ciphra-audit*.txt
